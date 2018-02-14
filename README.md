@@ -1,12 +1,14 @@
 ![](https://raw.githubusercontent.com/ncase/door/gh-pages/thumbnail.png)
 
-**Designed & developed by [Nicky Case](http://ncase.me/) in two-ish days.**
+**Дизайнер и разроботчик: [Nicky Case](http://ncase.me/) in two-ish days.**
 
-Thank you to my playtesters: Amber, Lana, Rio, Sakura.
+Спасибо мои игровым тестерам: Amber, Lana, Rio, Sakura.
 
-All code and art dedicated to the public domain. 
-If you'd like to help me keep making free, open-source playable silliness,
-please check out [my Patreon!](http://patreon.com/ncase) Thank you. <3
+Весь код и все изображения, посвященные общественному достоянию.
+Если вы хотите помочь мне делать бесплатные, с открытым кодом глупые игрушки,
+пожалуста проверти [мой Patreon!](http://patreon.com/ncase) Спасибо. <3
+
+Перевёл на русский язык и что то добавил: [Pixel-Tentacles](https://vk.com/pixel_tentacles)
 
 ---
 
@@ -20,4 +22,4 @@ please check out [my Patreon!](http://patreon.com/ncase) Thank you. <3
 * SFX Unlock: http://freesound.org/people/keweldog/sounds/181140/ (CC ZERO)
 * Social Media Icons: http://customizr.net/icons/
 
-Ru
+
