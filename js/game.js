@@ -858,6 +858,10 @@ function socialShare(event,type){
 		case "stumbleupon":
 			url += "http://www.stumbleupon.com/submit?url="+encodeURIComponent(link);
 			break;
+		case "vk":
+			url += "https://vk.com/share.php?url="+encodeURIComponent(link);
+			url +="&title="+encodeURIComponent("Валентинка");
+			break;
 	}
 
 	return sharePopup.call(this,event,{
