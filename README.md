@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ncase/door/gh-pages/thumbnail.png)
 
-**Дизайнер и разроботчик: [Nicky Case](http://ncase.me/) in two-ish days.**
+**Дизайнер и разроботчик: [Nicky Case](http://ncase.me/).**
 
 Спасибо мои игровым тестерам: Amber, Lana, Rio, Sakura.
 
